@@ -1,0 +1,9 @@
+D:\Мусакадиев Магомед\TaskManagerApp1\TaskManagerApp1\obj\Debug\TaskManagerApp1.csproj.AssemblyReference.cache
+D:\Мусакадиев Магомед\TaskManagerApp1\TaskManagerApp1\obj\Debug\TaskManagerApp1.Properties.Resources.resources
+D:\Мусакадиев Магомед\TaskManagerApp1\TaskManagerApp1\obj\Debug\TaskManagerApp1.csproj.GenerateResource.cache
+D:\Мусакадиев Магомед\TaskManagerApp1\TaskManagerApp1\obj\Debug\TaskManagerApp1.csproj.CoreCompileInputs.cache
+D:\Мусакадиев Магомед\TaskManagerApp1\TaskManagerApp1\bin\Debug\TaskManagerApp1.exe.config
+D:\Мусакадиев Магомед\TaskManagerApp1\TaskManagerApp1\bin\Debug\TaskManagerApp1.exe
+D:\Мусакадиев Магомед\TaskManagerApp1\TaskManagerApp1\bin\Debug\TaskManagerApp1.pdb
+D:\Мусакадиев Магомед\TaskManagerApp1\TaskManagerApp1\obj\Debug\TaskManagerApp1.exe
+D:\Мусакадиев Магомед\TaskManagerApp1\TaskManagerApp1\obj\Debug\TaskManagerApp1.pdb
